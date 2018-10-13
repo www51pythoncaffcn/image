@@ -1,2 +1,2 @@
 # toutiao
-download image from online
+download image from toutiao
